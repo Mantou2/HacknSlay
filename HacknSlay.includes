@@ -1,0 +1,7 @@
+GlewLib/src/GL
+HacknSlay_Project/src
+Libs/SDL2-2.0.3-mingw/i686-w64-mingw32/include/SDL2
+Libs/SDL2-2.0.3-mingw/include
+Libs/SDL2-2.0.3-mingw/x86_64-w64-mingw32/include/SDL2
+Libs/SDL2_mixer-2.0.0-mingw/i686-w64-mingw32/include/SDL2
+Libs/SDL2_mixer-2.0.0-mingw/x86_64-w64-mingw32/include/SDL2
